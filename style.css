@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap");
+
+/* global */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Winky Sans", sans-serif;
+    font-size: 25px;
+}
+
+
+#footer{
+    height: 450px;
+    background: linear-gradient(90deg, #4f2f68, #387271, #2a515f);
+    padding: 30px;
+    position: relative;
+}
+
+.logo-intro{
+    position: absolute;
+    top: 58px;
+}
+
+.logo-content{
+    width: 36%;
+    padding: 10px;
+    color: white;
+}
+
+/* links */
+
+.row a{
+    color: white;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+}
+.row-1{
+    position: absolute;
+    top: 80px;
+    left: 46%;
+}
+
+.row-2{
+    position: absolute;
+    top: 80px;
+    left: 58%;
+}
+
+.row-3{
+    position: absolute;
+    top: 80px;
+    left: 72%;
+}
+
+.row-4{
+    position: absolute;
+    top: 80px;
+    left: 85%;
+}
+
+.footer{
+    color: white;
+}
+
+/* icons */
+
+.bx{
+    color: white;
+    font-size: 40px;
+}
+.github{
+    position: absolute;
+    top: 68%;
+    left: 58%;
+}
+
+.insta{
+    position: absolute;
+    top: 68%;
+    left: 62%;
+}
+
+.linkedin{
+    position: absolute;
+    top: 68%;
+    left: 66%;
+}
+
+.whatsapp{
+    position: absolute;
+    top: 68%;
+    left: 70%;
+}
+
+.footer{
+    position: absolute;
+    top: 60%;
+}
